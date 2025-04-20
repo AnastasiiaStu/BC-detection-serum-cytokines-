@@ -8,6 +8,8 @@ Breast cancer is the most common malignant disease diagnosed in women worldwide.
 **Data description**
 
 A data set containing information on the concentration of 12 cytokines determined by enzyme immunoassay in 177 patients was used for the study.
+**104** patients with **primary Breast Cancer** (patients who had not received chemotherapy/radiotherapy/endocrine therapy) and **47** patients with 
+**Benign Breast Disease**
 
 **Pre-processing of data**
 
